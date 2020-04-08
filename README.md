@@ -1,7 +1,7 @@
-# CSE306 Group Assignment Original Code 
+# CSE316 Group Assignment Original Code 
 
 **Environment:**
 python3+
 
 Xi'an Jiaotong Liverpool University 
-CSE306 Computer Systems Security Group Assignment
+CSE316 Computer Systems Security Group Assignment
